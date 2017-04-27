@@ -1,2 +1,2 @@
 # Python-Archive
-Material and Projects I will use while learning Python
+Material I used while learning Python. Maybe they will help you too.
