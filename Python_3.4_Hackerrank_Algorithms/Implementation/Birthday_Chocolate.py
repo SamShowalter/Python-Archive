@@ -18,5 +18,6 @@ n = int(input().strip())
 choc = list(map(int, input().strip().split(' ')))
 d,m = input().strip().split(' ')
 d,m = [int(d),int(m)]
+
 result = getWays(choc, d, m)
 print(result)
