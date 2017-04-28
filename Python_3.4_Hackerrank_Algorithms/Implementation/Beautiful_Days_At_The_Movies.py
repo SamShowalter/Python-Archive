@@ -1,6 +1,4 @@
 
-#!/bin/python3
-
 import sys
 
 t = int(input().strip())
