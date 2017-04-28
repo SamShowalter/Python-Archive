@@ -1,7 +1,7 @@
 
 import sys
 
-#Thise careful about where and why you are indenting. Contextualize what is happening.
+#This is tricky. Be careful about where and why you are indenting. Contextualize what is happening.
 money, nk, nusb = [int(num) for num in input().strip().split(' ')]
 kc = [int(num) for num in input().strip().split(' ')]
 kusb = [int(num) for num in input().strip().split(' ')]
